@@ -1,38 +1,22 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+[ 
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+{ 
+	"name": "AAE kingdom", 
+	"leaderName": "A.A.Emran", 
+	"adjective": ["Otaku", "Weeb"], 
+	"startBias": ["Coast", "River"], 
+	"preferredVictoryType": "Diplomatic", 
+	"startIntroPart1": "hax, hax, HAX", 
+	"declaringWar": "get rekd!", 
+	"attacked": "THES IS SPARt... i mean Hack Land", 
+	"defeated": "oh well, i guess ill make some more QAnon...", 
+	"introduction": "how much code does it make to make you?", 
+	"neutralHello": "yo", 
+	"hateHello": "oh..you, tell me what you want", 
+	"tradeRequest": "It appears that you have a gigabyte of interest", 
+	"cities": ["AAE city", "Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"], 
+	"outerColor": [0,0,100], "innerColor": [0,255,0], "uniqueName": "The way of the Hack Lords", 
+	"uniques": [ "Enables construction of Spaceship parts", "Roads connect tiles across rivers", "[+1000]% [Gold] [in all cities]", "[+1000]% [Food] [in all cities]", "[+1000]% [Science] [in all cities]", "[+1000]% [Faith] [in all cities]", "[+1000]% [Culture] [in all cities]", "[+1000]% [Production] [in all cities]", "Enables conversion of city production to [Gold]", "\"Borrows\" city names from other civilizations in the game", "[-100]% Strength <when not at war>", "[+100]% Strength <when defending>" ] 
+}
+ 
 ]
